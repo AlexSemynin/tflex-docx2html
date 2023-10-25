@@ -1,7 +1,7 @@
 {
   "name": "tflex-docx2html",
   "description": "a javascript docx converter to html based on docx2html",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Alex Semynin",
     "email": "alex.semynin97@mail.ru"
