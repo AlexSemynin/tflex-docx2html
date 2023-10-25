@@ -1,11 +1,13 @@
-docx2html
+tflex-docx2html
+===
+Библиотека базируется на <a href="https://www.npmjs.com/package/docx2html">docx2html</a>, но внесены исправления при сборке. 
 ===
 **docx2html** is a javascript converter from docx to html on **nodejs** and **browser**. 
 <a href="http://lalalic.github.io/docx2html/">here's</a> a demo.
 
 installation
 ===
-<code>npm install docx2html</code>
+<code>npm install tflex-docx2html</code>
 
 example
 ===
