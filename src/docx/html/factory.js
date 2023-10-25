@@ -14,7 +14,7 @@ export default {
 	,'list':			require('./list')
 	,'paragraph':		require('./p')
 	,'section':			require('./section')
-	,'shape':			require('./shape')
+	,'Shape':			require('./Shape')
 	,'inline':			require('./span')
 	,'table':			require('./table')
 	,'cell':			require('./td')

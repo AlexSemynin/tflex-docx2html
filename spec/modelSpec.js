@@ -191,7 +191,7 @@ describe("docx2html",()=>{
 			})
 
 			it("shape:line,rect", done=>{
-				var Shape=require("../lib/docx/html/shape")
+				var Shape=require("../lib/docx/html/Shape")
 				spyOn(Shape.Properties.prototype,"path").and.callThrough()
 				docx2html(newDocx(`
 				<w:p w:rsidR="00990182" w:rsidRDefault="00B57533">
